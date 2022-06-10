@@ -1,5 +1,11 @@
 This file is created at developer branch 
 
+<<<<<<< HEAD
 File modified by Developer 2 
+=======
+Making changes in developer branch and push the changes from main branch 
+
+ 
+>>>>>>> tester
 
 
