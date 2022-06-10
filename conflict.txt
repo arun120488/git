@@ -13,3 +13,9 @@ Code added by Developer 2
 Developer 1 - Tortoise 
 Tortoise 
 
+
+Edit from Dev1 on gitbash 
+
+Edit from Dev2 on Folder
+
+
